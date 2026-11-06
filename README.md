@@ -1,5 +1,5 @@
 # Rangkuman Capstone Data Wrangling: Kelompok 12
-
+hadeh
 **Kasus 12: Upah dan pekerjaan informal** (klaster C, Gender dan ketenagakerjaan, SDG 8)
 Periode: Ganjil 2026/2027 · Pembimbing: **Mika Alvionita** · Disusun: 5 Nov 2026 (WIB)
 
